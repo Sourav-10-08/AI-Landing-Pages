@@ -13,7 +13,7 @@ export const Header = () => {
          </div>
         </div>
         <div className="hidden md:block">
-          <nav className=" flex gap-8 ">
+          <nav className=" flex gap-8 bg-red">
             <a href='#'  className="text-white/70 hover:text-white transition">Features</a>
             <a href='#'  className="text-white/70 hover:text-white transition">Developers</a>
             <a href='#'  className="text-white/70 hover:text-white transition">Pricing</a>
